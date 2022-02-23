@@ -139,7 +139,7 @@ class CourseGridItem extends StatelessWidget {
         children: <Widget>[
           Text(
             coursesBean.price.free
-                ? localizations.getLocalization("free_course_item")
+                ? "Grátis"
                 : coursesBean.price.price,
             textScaleFactor: 1.0,
             style: Theme.of(context).primaryTextTheme.subtitle.copyWith(

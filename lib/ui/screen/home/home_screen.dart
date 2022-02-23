@@ -57,11 +57,11 @@ class _HomeScreenState extends State<HomeScreen> {
               case 4:
                 return TopInstructorsWidget(item.name, state.instructors);
               case 1:
-                return CategoriesWidget(item.name, state.categoryList);
+                return CategoriesWidget("Categorias", state.categoryList);
               case 2:
-                return NewCoursesWidget(item.name, state.coursesNew);
+                return NewCoursesWidget("Novos Cursos", state.coursesNew);
               case 5:
-                return TrendingWidget(false,item.name, state.coursesFree);
+                return TrendingWidget(false,"Cursos Gratuitos", state.coursesFree);
               default:
                 return NewCoursesWidget(item.name, state.coursesNew);
             }

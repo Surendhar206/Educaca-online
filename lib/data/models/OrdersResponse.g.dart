@@ -78,7 +78,6 @@ Cart_itemsBean _$Cart_itemsBeanFromJson(Map<String, dynamic> json) {
     cart_item_id: json['cart_item_id'] as num,
     title: json['title'] as String,
     image: json['image'] as String,
-    price: json['price'] as String,
     terms: (json['terms'] as List)?.map((e) => e as String)?.toList(),
     price_formatted: json['price_formatted'] as String,
     image_url: json['image_url'] as String,
@@ -91,7 +90,6 @@ Map<String, dynamic> _$Cart_itemsBeanToJson(Cart_itemsBean instance) =>
       'title': instance.title,
       'image': instance.image,
       'image_url': instance.image_url,
-      'price': instance.price,
       'terms': instance.terms,
       'price_formatted': instance.price_formatted,
     };

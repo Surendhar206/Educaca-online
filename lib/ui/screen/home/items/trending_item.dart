@@ -210,7 +210,7 @@ class _TrendingWidget extends State<TrendingWidget> {
   _buildPrice(price, oldPrice, free) {
     if (free)
       return Text(
-        localizations.getLocalization("free_course_item"),
+        "Grátis",
         textScaleFactor: 1.0,
         style: Theme.of(context).primaryTextTheme.subhead.copyWith(
             color: primaryTextColor,

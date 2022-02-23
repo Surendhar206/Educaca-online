@@ -83,7 +83,6 @@ class Cart_itemsBean {
   String title;
   String image;
   String image_url;
-  String price;
   List<String> terms;
   String price_formatted;
 
@@ -91,7 +90,6 @@ class Cart_itemsBean {
       {this.cart_item_id,
       this.title,
       this.image,
-      this.price,
       this.terms,
       this.price_formatted,
       this.image_url});
