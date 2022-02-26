@@ -386,8 +386,8 @@
 					"$(PROJECT_DIR)/Flutter",
 				);
 				MARKETING_VERSION = 1.3.4;
-				PRODUCT_BUNDLE_IDENTIFIER = com.thedeterminedacademy.courses;
-				PRODUCT_NAME = "Determined Academy";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ehmlearn.courses;
+				PRODUCT_NAME = "Educaca Online";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
@@ -527,8 +527,8 @@
 					"$(PROJECT_DIR)/Flutter",
 				);
 				MARKETING_VERSION = 1.3.4;
-				PRODUCT_BUNDLE_IDENTIFIER = com.thedeterminedacademy.courses;
-				PRODUCT_NAME = "Determined Academy";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ehmlearn.courses;
+				PRODUCT_NAME = "Educaca Online";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -561,8 +561,8 @@
 					"$(PROJECT_DIR)/Flutter",
 				);
 				MARKETING_VERSION = 1.3.4;
-				PRODUCT_BUNDLE_IDENTIFIER = com.thedeterminedacademy.courses;
-				PRODUCT_NAME = "Determined Academy";
+				PRODUCT_BUNDLE_IDENTIFIER = com.ehmlearn.courses;
+				PRODUCT_NAME = "Educaca Online";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
