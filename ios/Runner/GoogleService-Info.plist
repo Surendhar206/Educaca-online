@@ -13,11 +13,11 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.stylemixthemes.Determined Academyapp</string>
+	<string>com.stylemixthemes.Educaca Onlineapp</string>
 	<key>PROJECT_ID</key>
-	<string>Determined Academy-app</string>
+	<string>Educaca Online-app</string>
 	<key>STORAGE_BUCKET</key>
-	<string>Determined Academy-app.appspot.com</string>
+	<string>Educaca Online-app.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,6 +31,6 @@
 	<key>GOOGLE_APP_ID</key>
 	<string>1:787470094102:ios:db2df4db10d31beb844a37</string>
 	<key>DATABASE_URL</key>
-	<string>https://Determined Academy-app.firebaseio.com</string>
+	<string>https://Educaca Online-app.firebaseio.com</string>
 </dict>
 </plist>
